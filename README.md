@@ -1,5 +1,7 @@
 # Google 2SV Enforcement Automation Script
 
+***This is archived because Google now offers 2sv gradual enforcement natively in G Suite***
+
 This script will automatically move users from a New User organization group to the root organization where 2-step would be enforced once they've enabled 2-step.
 
 ## Setup Instructions
